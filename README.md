@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio - [Your Name]
+# 🌐 Personal Portfolio - Najia Hasan Bano
 
 Welcome to my personal developer portfolio! This website showcases my skills, projects, and achievements as a web developer.
 
